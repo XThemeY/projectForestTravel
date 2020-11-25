@@ -11,6 +11,6 @@
 ## Тестировать локально
 ```sh
 git clone https://github.com/XThemeY/projectForestTravel.git
-cd projectForestTravel
+cd projectForestTravel/docs
 ```
 Открыть index.html
